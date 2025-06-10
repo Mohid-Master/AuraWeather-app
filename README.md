@@ -7,7 +7,7 @@ This project was developed using vanilla **HTML, CSS, and JavaScript**, leveragi
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-live-demo-link.netlify.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![AuraWeather Screenshot](https://raw.githubusercontent.com/AhmedGrr/AuraWeather/main/screencapture-file-C-Users-Saylani%20Access%20Point-Downloads-New%20folder-AuraWeather-index-html-2024-06-11-20_23_32.png)
+![AuraWeather Screenshot](https://github.com/Mohid-Master/AuraWeather-app/blob/main/screenshot.png)
 *(Replace the image link above with a link to your own screenshot)*
 
 ---
