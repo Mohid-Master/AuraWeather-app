@@ -4,7 +4,7 @@ AuraWeather is a beautifully designed, feature-rich weather dashboard that provi
 
 This project was developed using vanilla **HTML, CSS, and JavaScript**, leveraging multiple public APIs to create a single, cohesive user experience.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-live-demo-link.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://mohid-master.github.io/AuraWeather-app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ![AuraWeather Screenshot](https://github.com/Mohid-Master/AuraWeather-app/blob/main/screenshot.png)
